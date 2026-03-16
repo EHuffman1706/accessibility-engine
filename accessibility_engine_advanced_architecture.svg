@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" role="img" aria-labelledby="title desc">
+
+<title id="title">Accessibility Engine Advanced System Architecture</title>
+<desc id="desc">
+This diagram shows the advanced architecture of Accessibility Engine. 
+The system flow is: User → User Goals and Preferences → Authorization and Consent Manager → Agentic AI Mediation System → Accessibility Mediation Engine → Assistive Technology Bridge → External Systems.
+</desc>
+
+<style>
+.box { fill:#f4f6f8; stroke:#333; stroke-width:2; }
+.text { font-family: Arial, sans-serif; font-size:16px; text-anchor:middle; }
+.arrow { stroke:#333; stroke-width:2; marker-end:url(#arrow); }
+</style>
+
+<defs>
+<marker id="arrow" markerWidth="10" markerHeight="10" refX="10" refY="5" orient="auto">
+<path d="M0,0 L10,5 L0,10 Z" fill="#333"/>
+</marker>
+</defs>
+
+<rect x="400" y="40" width="200" height="60" class="box"/>
+<text x="500" y="75" class="text">User</text>
+
+<rect x="400" y="130" width="200" height="60" class="box"/>
+<text x="500" y="165" class="text">User Goals & Preferences</text>
+
+<rect x="400" y="220" width="200" height="60" class="box"/>
+<text x="500" y="255" class="text">Authorization & Consent</text>
+
+<rect x="400" y="310" width="200" height="60" class="box"/>
+<text x="500" y="345" class="text">Agentic AI Mediation</text>
+
+<rect x="400" y="400" width="200" height="60" class="box"/>
+<text x="500" y="435" class="text">Accessibility Mediation Engine</text>
+
+<rect x="400" y="490" width="200" height="60" class="box"/>
+<text x="500" y="525" class="text">Assistive Technology Bridge</text>
+
+<rect x="400" y="580" width="200" height="60" class="box"/>
+<text x="500" y="615" class="text">External Systems</text>
+
+<line x1="500" y1="100" x2="500" y2="130" class="arrow"/>
+<line x1="500" y1="190" x2="500" y2="220" class="arrow"/>
+<line x1="500" y1="280" x2="500" y2="310" class="arrow"/>
+<line x1="500" y1="370" x2="500" y2="400" class="arrow"/>
+<line x1="500" y1="460" x2="500" y2="490" class="arrow"/>
+<line x1="500" y1="550" x2="500" y2="580" class="arrow"/>
+
+</svg>
