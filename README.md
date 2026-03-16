@@ -16,11 +16,9 @@ Screen reader users may wish to jump directly to key sections.
 
 - [Skip to Table of Contents](#table-of-contents)
 - [Skip Past Diagrams](#after-diagrams)
-  ---
-<a id="table-of-contents"></a>
+  <a id="table-of-contents"></a>
 ## Table of Contents
-
-- [Introduction](#introduction)
+-  [Introduction](#introduction)
 - [Concept Overview](#concept-overview)
 - [Architecture Overview](#architecture-overview)
 - [Core Framework Layers](#core-framework-layers)
@@ -91,9 +89,9 @@ Screen reader users can access a full text description here:
 Screen reader users can access a full text description here:
 
 [Advanced Architecture — Text Diagram](advanced_architecture_text.md)
-
----
 <a id="after-diagrams"></a>
+---
+
 # Core Framework Layers
 
 Accessibility Engine is designed around several core functional layers.
