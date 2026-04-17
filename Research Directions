@@ -1,0 +1,97 @@
+# Research Directions
+
+Accessibility Engine explores the possibility of adaptive accessibility mediation systems that assist users when digital or physical environments present accessibility barriers.
+
+This document outlines potential research directions for the concept.
+
+---
+
+## Human–AI Collaboration
+
+Accessibility Engine includes the possibility of agentic AI systems that assist users in navigating inaccessible environments.
+
+Future research may explore:
+
+- how AI systems collaborate with users during complex workflows
+- how much guidance AI should provide
+- when systems should defer to user decisions
+- how to maintain transparency in AI-assisted interactions
+
+---
+
+## Accessibility Barrier Detection
+
+Research may explore methods for identifying accessibility barriers in real time, including:
+
+- unlabeled controls and inputs
+- inaccessible form structures
+- navigation traps
+- complex or unclear workflows
+
+Detection systems could support adaptive assistance by identifying where users encounter friction.
+
+---
+
+## Adaptive Accessibility Mediation
+
+Accessibility Engine proposes a mediation layer between users and inaccessible systems.
+
+Research questions include:
+
+- how systems interpret interface structure and workflows
+- how complex interactions can be translated into accessible steps
+- how users engage with mediated workflows
+
+---
+
+## Agentic AI Behavior and Boundaries
+
+Because Accessibility Engine may include semi-autonomous and autonomous agents, research should examine:
+
+- safe boundaries for autonomous behavior
+- user-configurable permission models
+- when explicit consent is required
+- how to prevent unintended actions
+
+---
+
+## Assistive Technology Interoperability
+
+Future work may explore integration with existing assistive technologies, including:
+
+- screen readers
+- voice interaction systems
+- magnification tools
+- alternative input devices
+
+The goal is to augment existing tools rather than replace them.
+
+---
+
+## Ethical and Safety Considerations
+
+Research should examine how accessibility mediation systems can operate safely and responsibly.
+
+Key areas include:
+
+- user autonomy
+- privacy protection
+- transparency in system behavior
+- safe interaction with sensitive systems
+
+---
+
+## Evaluation Methods
+
+Potential evaluation approaches include:
+
+- simulated accessibility barrier scenarios
+- usability testing with assistive technology users
+- workflow completion studies
+- human-AI interaction experiments
+
+---
+
+## Long-Term Research Goals
+
+The long-term goal of Accessibility Engine research is to explore how adaptive systems can support equitable participation in digital and physical environments while maintaining user autonomy, safety, and trust.
